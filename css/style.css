@@ -1,0 +1,127 @@
+@font-face {
+	font-family: "Vrdznagir";
+	src: url("/Vrdznagir.otf");
+}
+
+@font-face {
+	font-family: "Mirage";
+	src: url("/Mirage-Expanded.otf");
+}
+
+@font-face {
+	font-family: "DejaVuSansMono";
+	src: url("/DejaVuSansMono.ttf");
+}
+
+html {
+	font-family: "Vrdznagir";
+}
+
+pre,code {
+	font-family: "DejaVuSansMono";
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	text-transform: uppercase;
+	font-family: "Mirage";
+	height: 92px;
+	border-bottom: 1px solid rgb(0,0,0);
+}
+
+header nav ul {
+	padding: 1rem;
+	margin: 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+header nav ul li:not(:last-child) {
+	margin-right: .5em;
+}
+
+.menu {
+	list-style-type: none;
+}
+
+.menu li a {
+	display: inline-flex;
+	align-items: center;
+	padding: .25em .5em;
+}
+
+.menu-with-icons li a img {
+	margin-right: .25em;
+}
+
+main {
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+
+.article main {
+	flex-direction: column;
+}
+
+.page-content {
+	padding: 1rem;
+}
+
+.homepage p, .page-content p {
+	font-size: 2.25rem;
+}
+
+.homepage main {
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 1.5rem;	
+}
+
+.homepage main p {
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
+}
+
+.homepage img, .page-content img {
+	max-height: 640px;
+	max-width: 1024px;
+	width: 100%;
+}
+.fl-lt {
+	float: left;
+}
+.imagenum {
+	margin-right: 1rem;
+}
+.clearfix::after {
+	display: table;
+	content: "";
+	clear: both;
+}
+
+ul li {
+	font-size: 2.25rem;
+}
+
+ul li a {
+	font-size: 0.75em;
+}
+
+.font-very-small {
+	font-size: xx-small;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.full-width {
+	width: 100%;
+}
+

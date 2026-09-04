@@ -1,0 +1,25 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # 0a. EXTERNAL REDIRECT: /armath123 or /armath123/ directly to /
+    RewriteRule ^armath123/?$ / [R=301,L]
+
+    # 0b. PREFIX ALIAS: /armath123/anything internally maps to /anything
+    RewriteRule ^armath123/(.+) /$1 [L]
+
+    # 1. EXTERNAL REDIRECT: Strip .html or .htm from the URL if typed manually
+    # E.g., browser requests '/about.html' -> redirects to '/about'
+    RewriteCond %{THE_REQUEST} \s/+(.*?)\.html?\s [NC]
+    RewriteRule ^ %1 [R=301,L]
+
+    # 2. INTERNAL REWRITE: Map '/about' back to '/about.html' if it exists
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.html -f
+    RewriteRule ^(.*)$ $1.html [L]
+
+    # 3. INTERNAL REWRITE: Map '/about' back to '/about.htm' if it exists (and .html doesn't)
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.htm -f
+    RewriteRule ^(.*)$ $1.htm [L]
+</IfModule>
