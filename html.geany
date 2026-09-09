@@ -27,14 +27,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=3
-FILE_NAME_0=1253;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fcommands.htm;0;4
-FILE_NAME_1=308;CSS;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcss%2Fstyle.css;0;4
-FILE_NAME_2=551;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Findex.htm;0;4
-FILE_NAME_3=700;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials.htm;0;4
-FILE_NAME_4=534;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Findex.htm;0;4
-FILE_NAME_5=1605;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Frefraction.htm;0;4
-FILE_NAME_6=2381;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fdispersion.htm;0;4
+current_page=1
+FILE_NAME_0=560;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials.htm;0;4
+FILE_NAME_1=11015;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fos.htm;0;4
 
 [VTE]
-last_dir=/home/dude
+last_dir=/var/www/html
