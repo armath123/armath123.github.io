@@ -71,6 +71,7 @@ header nav ul {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
+	align-items: center;
 }
 
 header nav ul li:not(:last-child) {
