@@ -9,7 +9,7 @@
 	include(`partials/header.htm')
 	<main>
 		<div class="text-center full-width">
-			<img src="/img/articles/kturtle/commands/kturtle-am-us.jpg" width="320" height="320">
+			<img src="/img/articles/kturtle/commands/kturtle-am-us.webp" width="320" height="320">
 			<h1>Կրիայի հրամանները</h1>
 			<p>Կրիայի հրամանների ցանկը հայերեն և անգլերեն լեզուներով</p>
 		</div>

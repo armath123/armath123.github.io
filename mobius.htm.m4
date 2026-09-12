@@ -18,7 +18,7 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="1">1</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/mobius-strip.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/mobius-strip.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://virtualmathmuseum.org/Surface/gallery_o.html</small>
             </section>
@@ -26,18 +26,18 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="2">2</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/mobius-strip-paper.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/mobius-strip-paper.webp">
                 </div>
-                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://hy.wikipedia.org/wiki/%D5%8F%D5%B8%D5%BA%D5%B8%D5%AC%D5%B8%D5%A3%D5%AB%D5%A1#/media/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:M%C3%B6bius_strip.jpg</small>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://hy.wikipedia.org/wiki/%D5%8F%D5%B8%D5%BA%D5%B8%D5%AC%D5%B8%D5%A3%D5%AB%D5%A1#/media/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:M%C3%B6bius_strip.webp</small>
             </section>
 
             <section>
                 <h2>19-րդ դարի գերմանացի մաթեմատիկոսներ</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="3">3</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/German-mathematicians.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/German-mathematicians.webp">
                 </div>
-                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Johann_Benedict_Listing#/media/File:J-B-Listing.jpg, https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:August_Ferdinand_M%C3%B6bius.png</small>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Johann_Benedict_Listing#/media/File:J-B-Listing.webp, https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:August_Ferdinand_M%C3%B6bius.webp</small>
             </section>
 
             <section>
@@ -48,7 +48,7 @@
                 <h2>Մեզ հայտնի օձի աշխարհը</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="4">4</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/snake-game-1.gif">
+                    <img class="fl-lt" src="/img/projects/mobius/snake-game-1.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.google.com/fbx?fbx=snake_arcade</small>
             </section>
@@ -56,14 +56,14 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="5">5</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/snake-game-2.gif">
+                    <img class="fl-lt" src="/img/projects/mobius/snake-game-2.webp">
                 </div>
             </section>
 
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="6">6</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/snake-game-3.gif">
+                    <img class="fl-lt" src="/img/projects/mobius/snake-game-3.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.primarygames.com/arcade/classic/snakeclassics/mobile/</small>
             </section>
@@ -71,7 +71,7 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="7">7</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/ring-and-torus.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/ring-and-torus.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.gordonelectricsupply.com/p/Blackburn-Cap-400-Pipe-Conduit-Seal-4-Length-2-11-16/7005710, https://en.wikipedia.org/wiki/Torus</small>
             </section>
@@ -80,7 +80,7 @@
                 <h2>Օձի աշխարհը մաթեմատիկորեն (տոպոլոգիա)</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="8">8</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/ring-and-torus-topology.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/ring-and-torus-topology.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.youtube.com/watch?v=lmcT2mP2bfE</small>
             </section>
@@ -89,7 +89,7 @@
                 <h2>Մյոբիուսի ժապավենը մաթեմատիկորեն</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="9">9</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/mobius-topology.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/mobius-topology.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.youtube.com/watch?v=lmcT2mP2bfE</small>
             </section>
@@ -97,14 +97,14 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="10">10</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/aghues.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/aghues.webp">
                 </div>
             </section>
 
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="11">11</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/mobius-illustration-ant.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/mobius-illustration-ant.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://sketchfab.com/models/b5d59eaec25746c097727c73268720f1/</small>
             </section>
@@ -112,17 +112,17 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="12">12</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/mobius-crab.gif">
+                    <img class="fl-lt" src="/img/projects/mobius/mobius-crab.webp">
                 </div>
-                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Non-orientable_wormhole#/media/File:Fiddler_crab_mobius_strip.gif</small>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Non-orientable_wormhole#/media/File:Fiddler_crab_mobius_strip.webp</small>
             </section>
 
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="13">13</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/mobius-flip.gif">
+                    <img class="fl-lt" src="/img/projects/mobius/mobius-flip.webp">
                 </div>
-                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Orientability#/media/File:Flipping_in_M%C3%B6bius_strip.gif</small>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Orientability#/media/File:Flipping_in_M%C3%B6bius_strip.webp</small>
             </section>
 
             <section>
@@ -133,7 +133,7 @@
                 <h2>Ճարտարապետության մեջ․ NASCAR֊ի Փառքի Սրահ</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="14">14</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/nascar-hall-of-fame.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/nascar-hall-of-fame.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.thecypress.com/portfolio/nascar-hall-of-fame/</small>
             </section>
@@ -142,25 +142,25 @@
                 <h2>Գիտության մեջ․ Ջրի պոմպ․ Ալ Ջազարի, 1205թ․</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="15">15</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/Al-Jazari-Automata-1205.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/Al-Jazari-Automata-1205.webp">
                 </div>
-                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://commons.wikimedia.org/wiki/File:Al-Jazari_Automata_1205.jpg</small>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://commons.wikimedia.org/wiki/File:Al-Jazari_Automata_1205.webp</small>
             </section>
 
             <section>
                 <h2>Արվեստի մեջ․ Հռոմեական զարդապատկեր, Էոն հավերժության աստվածը Մյոբիուսի ժապավենը ձեռքին</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="16">16</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/aion-mosaic.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/aion-mosaic.webp">
                 </div>
-                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:Aion_mosaic_Glyptothek_Munich_W504.jpg</small>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:Aion_mosaic_Glyptothek_Munich_W504.webp</small>
             </section>
 
             <section>
                 <h2>Երևանում․ ինտելեկտուալ֊խաղային ակումբ</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="17">17</h3>
-                    <img class="fl-lt" src="/img/projects/mobius/aeon-yerevan.jpg">
+                    <img class="fl-lt" src="/img/projects/mobius/aeon-yerevan.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.facebook.com/aeon.yerevan/</small>
             </section>

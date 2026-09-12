@@ -18,7 +18,7 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="1">1</h3>
-                    <img src="/img/projects/temp-unit-converter/cf-unit-converter.png">
+                    <img src="/img/projects/termo/cf-unit-converter.webp">
                 </div>
             </section>
 
@@ -26,7 +26,7 @@
                 <h2>Ցելսիուս֊Ֆարենհայտ փոխարկիչ - Arduino նախագիծ</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="2">2</h3>
-                    <img src="/img/projects/temp-unit-converter/cf-unit-converter-arduino.png">
+                    <img src="/img/projects/termo/cf-unit-converter-arduino.webp">
                 </div>
             </section>
         </div>

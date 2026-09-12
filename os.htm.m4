@@ -12,7 +12,7 @@
     <main>
         <div class="page-header">
             <h1>Օպերացիոն համակարգեր</h1>
-            <img src="/img/projects/os/os.png">
+            <img src="/img/projects/os/os.webp">
             <div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝
                     https://en.wikipedia.org/wiki/File:Operating_system_placement.svg</small>
@@ -24,7 +24,7 @@
                 <h2>Apple I համակարգիչ (1976)</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="1">1</h3>
-                    <img class="fl-lt" src="/img/projects/os/apple-1-1976.jpg">
+                    <img class="fl-lt" src="/img/projects/os/apple-1-1976.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.britannica.com/technology/personal-computer</small>
             </section>
@@ -33,7 +33,7 @@
                 <h2>Սթիվ Վոզնիակն ու Սթիվ Ջոբսը Apple I համակարգչի տպատախտակը ձեռքներին (1976)</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="2">2</h3>
-                    <img class="fl-lt" src="/img/projects/os/wozniak-jobs-apple-1-1976.jpg">
+                    <img class="fl-lt" src="/img/projects/os/wozniak-jobs-apple-1-1976.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.britannica.com/technology/personal-computer</small>
             </section>
@@ -42,7 +42,7 @@
                 <h2>Վոզնիակն ու Ջոբսը Apple II համակարգչի վրա աշխատելիս (1978)</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="3">3</h3>
-                    <img class="fl-lt" src="/img/projects/os/wozniak-jobs-apple-2-1978.jpg">
+                    <img class="fl-lt" src="/img/projects/os/wozniak-jobs-apple-2-1978.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://computerhistory.org/blog/apple-ii-dos-source-code/, https://www.britannica.com/technology/Apple-II</small>
             </section>
@@ -51,7 +51,7 @@
                 <h2>Apple II համակարգչի օպերացիոն համակարգի կասետը Վոզնիակի մակագրությամբ (1978)</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="4">4</h3>
-                    <img class="fl-lt" src="/img/projects/os/apple-2-dos-cassette.jpg">
+                    <img class="fl-lt" src="/img/projects/os/apple-2-dos-cassette.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://computerhistory.org/blog/apple-ii-dos-source-code/</small>
             </section>
@@ -59,17 +59,17 @@
             <section>
                 <h2>System օպերացիոն համակարգ, Մաքինթոշ</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="4">4</h3>
-                    <img class="fl-lt" src="/img/projects/os/macintosh-interface.jpg">
+                    <h3 class="fl-lt imagenum" id="5">5</h3>
+                    <img class="fl-lt" src="/img/projects/os/macintosh-interface.webp">
                 </div>
-                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/System_1#/media/File:Apple_Macintosh_Desktop.png, https://en.wikipedia.org/wiki/MacPaint#/media/File:MacpaintWP.png, https://en.wikipedia.org/wiki/File:Steve_Jobs_and_Macintosh_computer,_January_1984,_by_Bernard_Gotfryd_-_edited.jpg</small>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/System_1#/media/File:Apple_Macintosh_Desktop.png, https://en.wikipedia.org/wiki/MacPaint#/media/File:MacpaintWP.png, https://en.wikipedia.org/wiki/File:Steve_Jobs_and_Macintosh_computer,_January_1984,_by_Bernard_Gotfryd_-_edited.webp</small>
             </section>
             
             <section>
                 <h2>Սյուզեն Քեր, աշխարահռչակ գրաֆիկական դիզայներ</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="5">5</h3>
-                    <img class="fl-lt" src="/img/projects/os/susan-kare.jpg">
+                    <h3 class="fl-lt imagenum" id="6">6</h3>
+                    <img class="fl-lt" src="/img/projects/os/susan-kare.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.instagram.com/p/C0T8xOsu6_y/, https://www.laborando.com.ar/quien-es-susan-kare/, https://medium.com/@Appseecom/celebrating-women-in-tech-susan-kare-designer-of-apples-most-iconic-icons-5ce4f5988ba2, https://en.wikipedia.org/wiki/Susan_Kare</small>
             </section>
@@ -77,8 +77,8 @@
             <section>
                 <h2>Փոլ Ալեն և Բիլլ Գեյթս, Լեյքսայդի ծրագրավորողների խումբ, Լեյքսայդի դպրոց (1968)</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="6">6</h3>
-                    <img class="fl-lt" src="/img/projects/os/paul-allen-bill-gates-lakeside.jpg">
+                    <h3 class="fl-lt imagenum" id="7">7</h3>
+                    <img class="fl-lt" src="/img/projects/os/paul-allen-bill-gates-lakeside.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://ajovomultja.hu/news/bill-gates-learns-programming, https://x.com/AcquiredFM/status/1782444302263816444</small>
             </section>
@@ -86,8 +86,8 @@
             <section>
                 <h2>Նրանց առաջին սթարթափը՝ Թրաֆ֊Օ֊Դատա (1972)</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="7">7</h3>
-                    <img class="fl-lt" src="/img/projects/os/traf-o-data.jpg">
+                    <h3 class="fl-lt imagenum" id="8">8</h3>
+                    <img class="fl-lt" src="/img/projects/os/traf-o-data.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Traf-O-Data</small>
             </section>
@@ -95,8 +95,8 @@
             <section>
                 <h2>Բիլ Գեյթս (1994), 330000 և 650‍</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="8">8</h3>
-                    <img class="fl-lt" src="/img/projects/os/bill-gates-stack-of-papers.jpg">
+                    <h3 class="fl-lt imagenum" id="9">9</h3>
+                    <img class="fl-lt" src="/img/projects/os/bill-gates-stack-of-papers.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.reddit.com/r/interestingasfuck/comments/1e0sse1/in_1994_bill_gates_sat_on_this_stack_of_papers/</small>
             </section>
@@ -104,8 +104,8 @@
             <section>
                 <h2>Windows 1, 1985‍</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="9">9</h3>
-                    <img class="fl-lt" src="/img/projects/os/gates-windows.jpg">
+                    <h3 class="fl-lt imagenum" id="10">10</h3>
+                    <img class="fl-lt" src="/img/projects/os/gates-windows.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Windows_1.0, https://ru.wikipedia.org/wiki/Windows_1.0x, https://edition.cnn.com/2024/05/15/business/gallery/bill-gates</small>
             </section>
@@ -113,8 +113,8 @@
             <section>
                 <h2>Դենիս Ռիտչին և Քեն Թոմփսոնը DEC PDP-11 համակարգչի վրա աշխատելուց, Բելլ լաբորատորիա (AT&T Bell Laboratories) (1972)‍</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="10">10</h3>
-                    <img class="fl-lt" src="/img/projects/os/ritchie-thompson-pdp-11.jpg">
+                    <h3 class="fl-lt imagenum" id="11">11</h3>
+                    <img class="fl-lt" src="/img/projects/os/ritchie-thompson-pdp-11.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.historyofinformation.com/detail.php?id=872</small>
             </section>
@@ -122,8 +122,8 @@
             <section>
                 <h2>Յունիքս (Unix) օպերացիոն համակարգ (1969-1973)‍</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="11">11</h3>
-                    <img class="fl-lt" src="/img/projects/os/unix.jpg">
+                    <h3 class="fl-lt imagenum" id="12">12</h3>
+                    <img class="fl-lt" src="/img/projects/os/unix.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://en.wikipedia.org/wiki/Unix</small>
             </section>
@@ -132,8 +132,8 @@
                 <h2>Դենիս Ռիտչին C ծրագրավորման լեզվի ստեղծողն է (1972)‍</h2>
                 <p>Պարգևատրվել է բազմաթիվ, այդ թվում՝ Ալան Թյուրինգի մրցանակով՝ համակարգչային գիտության մեջ իր ներդրումների համար</p>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="12">12</h3>
-                    <img class="fl-lt" src="/img/projects/os/ritchie-c.jpg">
+                    <h3 class="fl-lt imagenum" id="13">13</h3>
+                    <img class="fl-lt" src="/img/projects/os/ritchie-c.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.invent.org/inductees/dennis-ritchie, https://en.wikipedia.org/wiki/C_(programming_language)</small>
             </section>
@@ -141,8 +141,8 @@
             <section>
                 <h2>Լինուս Թորվալդս, համակարգչային գիտության ֆինլանդացի ինժեներ, ստեղծել է Լինուքս օպերացիոն համակարգը (1991)‍</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="13">13</h3>
-                    <img class="fl-lt" src="/img/projects/os/linus-linux.jpg">
+                    <h3 class="fl-lt imagenum" id="14">14</h3>
+                    <img class="fl-lt" src="/img/projects/os/linus-linux.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.instagram.com/p/DAv5akhPk9q/, https://1000logos.net/linux-logo/, https://fossbytes.com/linus-torvaldss-famous-email-first-linux-announcement/</small>
             </section>
@@ -150,8 +150,8 @@
             <section>
                 <h2>Լինուքս օպերացիոն համակարգերի ծառ (բազմազանություն)</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="14">14</h3>
-                    <img class="fl-lt" src="img/projects/os/linux-os-tree-debian.jpg">
+                    <h3 class="fl-lt imagenum" id="15">15</h3>
+                    <img class="fl-lt" src="img/projects/os/linux-os-tree-debian.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.reddit.com/r/linux/comments/1rme0p3/i_made_a_map_family_tree_of_all_the_popular/, https://commons.wikimedia.org/wiki/File:Openlogo-debianV2.svg</small>
             </section>
@@ -159,8 +159,8 @@
             <section>
                 <h2>Լինուքս տերմինալ կամ հրամանների կատարման ինտերֆեյս (Terminal/CLI)</h2>
                 <div class="clearfix">
-                    <h3 class="fl-lt imagenum" id="15">15</h3>
-                    <img class="fl-lt" src="/img/projects/os/linux-terminal.png">
+                    <h3 class="fl-lt imagenum" id="16">16</h3>
+                    <img class="fl-lt" src="/img/projects/os/linux-terminal.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://commons.wikimedia.org/wiki/File:Linux_command-line._Bash._GNOME_Terminal._screenshot.png</small>
             </section>

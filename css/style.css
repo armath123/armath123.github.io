@@ -5,17 +5,17 @@
 
 @font-face {
 	font-family: "Vrdznagir";
-	src: url("/Vrdznagir.otf");
+	src: url("/fonts/Vrdznagir.otf");
 }
 
 @font-face {
 	font-family: "Mirage";
-	src: url("/Mirage-Expanded.otf");
+	src: url("/fonts/Mirage-Expanded.otf");
 }
 
 @font-face {
 	font-family: "DejaVuSansMono";
-	src: url("/DejaVuSansMono.ttf");
+	src: url("/fonts/DejaVuSansMono.ttf");
 }
 
 @keyframes slowBlink {

@@ -10,12 +10,12 @@
 		<ul class="menu menu-with-icons">
 			<li>
 				<a href="/kturtle/commands.htm">
-					<img src="/img/articles/kturtle/commands/kturtle-am-us.jpg" width="128" height="128"> Կրիայի հրամանները
+					<img src="/img/articles/kturtle/commands/kturtle-am-us.webp" width="128" height="128"> Կրիայի հրամանները
 				</a>
 			</li>
             <li>
 				<a href="/kturtle/victorina.htm">
-					<img src="/img/articles/kturtle/victorina/kturtle-victorina.jpg" width="128" height="128"> Կրիա - Վիկտորինա
+					<img src="/img/articles/kturtle/victorina/kturtle-victorina.webp" width="128" height="128"> Կրիա - Վիկտորինա
 				</a>
 			</li>
 		</ul>

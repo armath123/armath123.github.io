@@ -16,7 +16,7 @@
     include(`partials/header.htm')
     <main>
         <div class="page-header">
-            <img src="/img/articles/kturtle/victorina/kturtle-victorina.jpg" width="320" height="320">
+            <img src="/img/articles/kturtle/victorina/kturtle-victorina.webp" width="320" height="320">
             <h1>Կրիա - Վիկտորինա</h1>
         </div>
         <div class="page-content">

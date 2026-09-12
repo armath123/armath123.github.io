@@ -12,10 +12,10 @@
     <main>
         <div class="page-header">
             <h1>Լույսի տարալուծումը կամ դիսպերսիա</h1>
-            <img src="/img/projects/dispersion/dispersion.png">
+            <img src="/img/projects/dispersion/dispersion.webp">
             <div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝
-                    https://commons.wikimedia.org/wiki/Dispersion#/media/File:Prism_rainbow_schema.png</small>
+                    https://commons.wikimedia.org/wiki/Dispersion#/media/File:Prism_rainbow_schema.webp</small>
             </div>
         </div>
         <div class="page-content">
@@ -23,7 +23,7 @@
             <section>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="1">1</h3>
-                    <img class="fl-lt" src="/img/projects/refraction/light_dispersion.gif">
+                    <img class="fl-lt" src="/img/projects/refraction/light_dispersion.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://traditio.wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Light_dispersion_conceptual.gif</small>
             </section>
@@ -32,7 +32,7 @@
                 <h2>Ինքնաշեն պրիզմայի գծագիր</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="2">2</h3>
-                    <img class="fl-lt" src="/img/projects/dispersion/prism-diy-bp.jpg">
+                    <img class="fl-lt" src="/img/projects/dispersion/prism-diy-bp.webp">
                 </div>
             </section>
 
@@ -41,7 +41,7 @@
                 <h2>Ռիչարդ Ռայթ, Ռոջեր Ուոթերս, Նիք Մեյսոն, Դեյվիդ Գիլմոր (և Սիդ Բարրեթ)</h2>
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="3">3</h3>
-                    <img class="fl-lt" src="/img/projects/dispersion/pink-floyd.jpg">
+                    <img class="fl-lt" src="/img/projects/dispersion/pink-floyd.webp">
                 </div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.polarmusicprize.org/laureates/pink-floyd/, https://www.amazon.com/clp/B07DN5F8NL</small>
                 <br><br><br>

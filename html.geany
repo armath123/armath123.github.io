@@ -27,15 +27,24 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=344;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fvictorina.htm.m4;0;4
-FILE_NAME_1=689;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Findex.htm.m4;0;4
-FILE_NAME_2=1429;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fdispersion.htm;0;4
-FILE_NAME_3=1417;Sh;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fabout.htm.m4;0;4
-FILE_NAME_4=0;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcapillary.htm;0;4
-FILE_NAME_5=328;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcapillary.htm.m4;0;4
-FILE_NAME_6=2059;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fabout.htm;0;4
-FILE_NAME_7=348;CSS;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcss%2Fstyle.css;0;4
+current_page=0
+FILE_NAME_0=988;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fdispersion.htm.m4;0;4
+FILE_NAME_1=2784;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fpressure.htm.m4;0;4
+FILE_NAME_2=1481;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fratio-2.htm.m4;0;4
+FILE_NAME_3=5700;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fratio.htm.m4;0;4
+FILE_NAME_4=3058;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmobius.htm.m4;0;4
+FILE_NAME_5=2399;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Frefraction.htm.m4;0;4
+FILE_NAME_6=1082;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Ftermo.htm.m4;0;4
+FILE_NAME_7=8404;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fperiscope.htm.m4;0;4
+FILE_NAME_8=90;Sh;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle-base.htm.m4;0;4
+FILE_NAME_9=266;CSS;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcss%2Fstyle.css;0;4
+FILE_NAME_10=416;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fos.htm.m4;0;4
+FILE_NAME_11=0;None;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fhtml.geany;0;4
+FILE_NAME_12=0;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fabout.htm;0;4
+FILE_NAME_13=521;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Findex.htm.m4;0;4
+FILE_NAME_14=339;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fcommands.htm.m4;0;4
+FILE_NAME_15=466;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fvictorina.htm.m4;0;4
+FILE_NAME_16=0;Sh;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Foptimize.sh;0;4
 
 [VTE]
 last_dir=/var/www/html

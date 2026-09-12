@@ -17,21 +17,21 @@
 			<section>
 				<div class="clearfix">
 					<h3 class="fl-lt imagenum" id="1">1</h3>
-					<img class="fl-lt" src="/img/projects/ratio-2/kturtle-decartes.jpg">
+					<img class="fl-lt" src="/img/projects/ratio-2/kturtle-decartes.webp">
 				</div>
 			</section>
 
 			<section>
 				<div class="clearfix">
 					<h3 class="fl-lt imagenum" id="2">2</h3>
-					<img class="fl-lt" src="/img/projects/ratio-2/kturtle-two-points.jpg">
+					<img class="fl-lt" src="/img/projects/ratio-2/kturtle-two-points.webp">
 				</div>
 			</section>
 
 			<section>
 				<div class="clearfix">
 					<h3 class="fl-lt imagenum" id="3">3</h3>
-					<img class="fl-lt" src="/img/projects/ratio-2/kturtle-two-points-tr.jpg">
+					<img class="fl-lt" src="/img/projects/ratio-2/kturtle-two-points-tr.webp">
 				</div>
 			</section>
 
@@ -39,7 +39,7 @@
                 <h2>Նորավանք (Վայոց Ձոր) (1205թ․)</h2>
                 <div class="clearfix">
 					<h3 class="fl-lt imagenum" id="4">4</h3>
-					<img class="fl-lt" src="/img/projects/ratio-2/noravanq.jpg">
+					<img class="fl-lt" src="/img/projects/ratio-2/noravanq.webp">
 				</div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.sacredtradition.am/Library/encyclopedia.php, https://տուրիստ.հայ/am/mp/48962.html</small>
 			</section>
@@ -49,7 +49,7 @@
                 <h2>Կասկադ (Երևան, Ջիմ Թորոսյան 1971-1980)</h2>
 				<div class="clearfix">
 					<h3 class="fl-lt imagenum" id="5">5</h3>
-					<img class="fl-lt" src="/img/projects/ratio-2/cascade.jpg">
+					<img class="fl-lt" src="/img/projects/ratio-2/cascade.webp">
 				</div>
                 <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://www.facebook.com/NationalArmenia/photos/%D5%A5%D6%80%D6%87%D5%A1%D5%B6%D5%B5%D5%A1%D5%B6-%D5%AF%D5%A1%D5%BD%D5%AF%D5%A1%D5%A4-%D5%B3%D5%A1%D6%80%D5%BF%D5%A1%D6%80%D5%A1%D5%BA%D5%A5%D5%BF%D5%B6%D5%A5%D6%80-%D5%A1%D5%AC%D5%A5%D6%84%D5%BD%D5%A1%D5%B6%D5%A4%D6%80-%D5%A9%D5%A1%D5%B4%D5%A1%D5%B6%D5%B5%D5%A1%D5%B6-%D5%BB%D5%AB%D5%B4-%D5%A9%D5%B8%D6%80%D5%B8%D5%BD%D5%B5%D5%A1%D5%B6-%D6%87-%D5%A1%D5%BD%D5%AC%D5%A1%D5%B6-%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%80%D5%B8%D6%82%D5%B4/888190404962728/, https://www.facebook.com/kaskadbalkon/photos/%D5%B0%D5%B8%D5%AF%D5%BF%D5%A5%D5%B4%D5%A2%D5%A5%D6%80%D5%AB-3-%D5%AB%D6%81-%D5%AF%D5%A1%D6%80%D5%B8%D5%B2-%D5%A5%D6%84-%D5%B0%D5%A1%D5%B4%D5%A5%D5%B6%D5%A1%D5%AC-%D5%B6%D5%B8%D6%80%D5%A1%D5%A2%D5%A1%D6%81-%D5%AF%D5%A1%D5%BD%D5%AF%D5%A1%D5%A4-%D5%A2%D5%A1%D5%AC%D5%AF%D5%B8%D5%B6-%D5%BD%D6%80%D5%B3%D5%A1%D6%80%D5%A1%D5%B6-%D5%A9%D5%A1%D5%B4%D5%A1%D5%B6%D5%B5%D5%A1%D5%B6-6-%D5%BF%D5%A1%D6%80%D5%A1%D5%AE%D6%84/725309667812718/</small>
 			</section>

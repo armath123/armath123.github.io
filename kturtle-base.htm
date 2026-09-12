@@ -3,7 +3,7 @@
 <style>
 @font-face {
 	font-family: "Vrdznagir";
-	src: url("/Vrdznagir.otf");
+	src: url("/fonts/Vrdznagir.otf");
 }
 
 * {
@@ -19,17 +19,17 @@
 <p>Կրիայի նախնական կարգավորումներ</p>
 
 <p>
-<img src="/կրիայի֊կարգավորումներ.png">
+<img src="/img/projects/kturtle-base/կրիայի֊կարգավորումներ.webp">
 </p>
 
 <p>Ճառագայթ</p>
 
 <p>
-<img src="/ճառագայթ.png">
+<img src="/img/projects/kturtle-base/ճառագայթ.webp">
 </p>
 
 <p>Անկյուն <span style="font-family: sans-serif;">°</span></p>
 
 <p>
-<img src="/անկյուն֊15.png">
+<img src="/img/projects/kturtle-base/անկյուն֊15.webp">
 </p>
