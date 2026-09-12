@@ -23,7 +23,7 @@
 	</header>
 	<main>
 		<p>Երևանի Պարույր Սևակի անվան թիվ 123 հիմնական դպրոց</p>
-		<p>ԱՐՄԱԹ ինժեներական լաբորատորիա <a href="/about" style="animation: slowBlink 2.5s infinite ease-in-out;">&#9432;</a></p>
+		<p>ԱՐՄԱԹ ինժեներական լաբորատորիա <a href="/about.htm" style="animation: slowBlink 2.5s infinite ease-in-out;">&#9432;</a></p>
 		<img src="/img/main/stem2.png">
 		<small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://commons.wikimedia.org/wiki/File:Scienza,_Tecnologia,_Ingegneria_e_Matematica.svg</small>
 	</main>
