@@ -27,7 +27,15 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=1
+FILE_NAME_0=344;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fvictorina.htm.m4;0;4
+FILE_NAME_1=694;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Findex.htm.m4;0;4
+FILE_NAME_2=1429;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fdispersion.htm;0;4
+FILE_NAME_3=1417;Sh;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fabout.htm.m4;0;4
+FILE_NAME_4=0;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcapillary.htm;0;4
+FILE_NAME_5=328;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcapillary.htm.m4;0;4
+FILE_NAME_6=2059;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fabout.htm;0;4
+FILE_NAME_7=348;CSS;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fcss%2Fstyle.css;0;4
 
 [VTE]
 last_dir=/var/www/html
