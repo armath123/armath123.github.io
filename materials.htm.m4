@@ -5,28 +5,7 @@
 	<link rel="stylesheet" href="/css/style.css" type="text/css">
 </head>
 <body>
-	<header>
-	<nav>
-		<ul class="menu menu-with-icons">
-			<li style="position: absolute; left: 1rem;">
-                   <a href="/">
-                       <img src="/img/main/home.png"> ՏՈՒՆ
-                   </a>
-               </li>
-			<li>
-				<a href="/materials.htm">
-					<img src="/img/main/materials.png" width="24" height="24"> Նյութեր
-				</a>
-			</li>
-			<li>
-				<a href="/kturtle">
-					<img src="/img/main/kturtle-64.png" width="24" height="24"> Կրիա
-				</a>
-			</li>
-		</ul>
-	</nav>
-</header>
-
+	include(`partials/header.htm')
 	<main>
 		<ul class="menu menu-with-icons">
 			<li>

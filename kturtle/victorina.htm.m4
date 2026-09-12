@@ -13,28 +13,7 @@
 </head>
 
 <body class="materials-page single">
-    <header>
-	<nav>
-		<ul class="menu menu-with-icons">
-			<li style="position: absolute; left: 1rem;">
-                   <a href="/">
-                       <img src="/img/main/home.png"> ՏՈՒՆ
-                   </a>
-               </li>
-			<li>
-				<a href="/materials.htm">
-					<img src="/img/main/materials.png" width="24" height="24"> Նյութեր
-				</a>
-			</li>
-			<li>
-				<a href="/kturtle">
-					<img src="/img/main/kturtle-64.png" width="24" height="24"> Կրիա
-				</a>
-			</li>
-		</ul>
-	</nav>
-</header>
-
+    include(`partials/header.htm')
     <main>
         <div class="page-header">
             <img src="/img/articles/kturtle/victorina/kturtle-victorina.jpg" width="320" height="320">
