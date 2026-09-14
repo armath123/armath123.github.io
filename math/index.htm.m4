@@ -10,7 +10,7 @@
 		<ul class="menu menu-with-icons">
 			<li>
 				<a href="/math/skanavi.htm">
-					<img src="/img/articles/math/skanavi/skanavi.webp" width="128" height="auto"> Սկանավի ֊ Մաթեմատիկայի մրցույթային խնդիրների ժողովածու
+					<img src="/img/articles/math/skanavi/skanavi.webp" width="128" height="auto"> Սկանավի ֊ Մաթեմատիկայի մրցույթային խնդիրների ժողովածու<strong style="color:red;">*</strong>
 				</a>
 			</li>
 		</ul>

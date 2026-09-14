@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="/css/style.css" type="text/css">
-    <title>Սկանավի</title>
+    <title>Սկանավի ֊ Մաթեմատիկայի մրցույթային խնդիրների ժողովածու</title>
     <style>
         .math-quiz {
             max-width: 480px;
@@ -70,7 +70,7 @@
                     https://commons.wikimedia.org/wiki/File:VR_Coaster_Train_at_Six_Flags_New_England.jpg</small>
             </div>
             <h1 style="margin-bottom: 0;">Սկանավի</h1>
-            <p style="margin: 0;">Մաթեմատիկայի մրցույթային խնդիրների ժողովածու</p>
+            <p style="margin: 0;">Մաթեմատիկայի մրցույթային խնդիրների ժողովածու ԲՏՈՒՀ ընդունվողների համար (Երևան, Լույս, 88)</p>
         </div>
         <div class="page-content">
 
@@ -79,13 +79,13 @@
                     <h3 class="imagenum" id="1">Խնդիր 1</h3>
                     <div class="math-quiz">
                         <div>
-							$$\dfrac{\left(7-6{,}35\right)\div6{,}5+9{,}9}{\left(1{,}2\div36+1{,}2\div0{,}25-1\dfrac{5}{16}\right)\div\dfrac{169}{24}}$$
+							$$\dfrac{\left(7-6{,}35\right) : 6{,}5+9{,}9}{\left(1{,}2 : 36+1{,}2 : 0{,}25-1\dfrac{5}{16}\right) : \dfrac{169}{24}}$$
 						</div>
 						<div>
 							<details>
 								<summary>Ցույց տալ պատասխանը</summary>
 								<div class="answer-box">
-									\[ = 20 \]
+									$$ = 20 $$
 								</div>
 							</details>
 						</div>
@@ -98,13 +98,13 @@
                     <h3 class="imagenum" id="2">Խնդիր 2</h3>
                     <div class="math-quiz">
                         <div>
-							$$\left(\left(\dfrac{7}{9} - \dfrac{47}{72}\right)\div1.25+\left(\dfrac{6}{7} - \dfrac{17}{28}\right)\div\left(0.358-0.108\right)\right)\times1.6-\dfrac{19}{25}$$
+							$$\left(\left(\dfrac{7}{9} - \dfrac{47}{72}\right) : 1.25+\left(\dfrac{6}{7} - \dfrac{17}{28}\right) : \left(0.358-0.108\right)\right)\times1{,}6-\dfrac{19}{25}$$
 						</div>
 						<div>
 							<details>
 								<summary>Ցույց տալ պատասխանը</summary>
 								<div class="answer-box">
-									\[ = 1 \]
+									$$ = 1 $$
 								</div>
 							</details>
 						</div>
@@ -117,13 +117,13 @@
                     <h3 class="imagenum" id="3">Խնդիր 3</h3>
                     <div class="math-quiz">
                         <div>
-							$$\dfrac{\left( 0{,}5 \div 1{,}25 + \dfrac{7}{5} \div 1\dfrac{4}{7} - \dfrac{3}{11} \right) \times 3}{\left( 1{,}5 + \dfrac{1}{4} \right) \div 18\dfrac{1}{3}}$$
+							$$\dfrac{\left( 0{,}5 : 1{,}25 + \dfrac{7}{5} : 1\dfrac{4}{7} - \dfrac{3}{11} \right) \cdot 3}{\left( 1{,}5 + \dfrac{1}{4} \right) : 18\dfrac{1}{3}}$$
 						</div>
 						<div>
 							<details>
 								<summary>Ցույց տալ պատասխանը</summary>
 								<div class="answer-box">
-									\[ = 32 \]
+									$$ = 32 $$
 								</div>
 							</details>
 						</div>
@@ -131,6 +131,214 @@
                 </div>
             </section>
             
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="4">Խնդիր 4</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\left( \dfrac{(2{,}7 - 0{,}8) \cdot 2\dfrac{1}{3}}{(5{,}2 - 1{,}4) : \dfrac{3}{70}} + 0{,}125 \right) : 2\dfrac{1}{2} + 0{,}43$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 0{,}5 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="5">Խնդիր 5</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{2\dfrac{3}{4} : 1{,}1 + 3\dfrac{1}{3}}{2{,}5 - 0{,}4 \cdot 3\dfrac{1}{3}} : \dfrac{5}{7} - \dfrac{\left( 2\dfrac{1}{6} + 4{,}5 \right) \cdot 0{,}375}{2{,}75 - 1\dfrac{1}{2}}$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 5 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="6">Խնդիր 6</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{\left( 13{,}75 + 9\dfrac{1}{6} \right) \cdot 1{,}2}{\left( 10{,}3 - 8\dfrac{1}{2} \right) \cdot \dfrac{5}{9}} + \dfrac{\left( 6{,}8 - 3\dfrac{3}{5} \right) \cdot 5\dfrac{5}{6}}{\left( 3\dfrac{2}{3} - 3\dfrac{1}{6} \right) \cdot 56} - 27\dfrac{1}{6}$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 1 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="7">Խնդիր 7</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{\left( \dfrac{1}{6} + 0{,}1 + \dfrac{1}{15} \right) : \left( \dfrac{1}{6} + 0{,}1 - \dfrac{1}{15} \right) \cdot 2{,}52}{\left( 0{,}5 - \dfrac{1}{3} + 0{,}25 - \dfrac{1}{5} \right) : \left( 0{,}25 - \dfrac{1}{6} \right) \cdot \dfrac{7}{13}}$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 3 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="8">Խնդիր 8</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\left( \dfrac{3\dfrac{1}{3} + 2{,}5}{2{,}5 - 1\dfrac{1}{3}} \cdot \dfrac{4{,}6 - 2\dfrac{1}{3}}{4{,}6 + 2\dfrac{1}{3}} \cdot 5{,}2 \right) : \left( \dfrac{0{,}05}{\dfrac{1}{7} - 0{,}125} + 5{,}7 \right)$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 1 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="9">Խնդիր 9</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{0{,}4 + 8 \cdot \left( 5 - 0{,}8 \cdot \dfrac{5}{8} \right) - 5 : 2\dfrac{1}{2}}{\left( 1\dfrac{7}{8} \cdot 8 - \left( 8{,}9 - 2{,}6 : \dfrac{2}{3} \right) \right) \cdot 34\dfrac{2}{5}} \cdot 90$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 9 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="10">Խնդիր 10</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{\left( 5\dfrac{4}{45} - 4\dfrac{1}{6} \right) : 5\dfrac{8}{15}}{\left( 4\dfrac{2}{3} + 0{,}75 \right) \cdot 3\dfrac{9}{13}} \cdot 34\dfrac{2}{7} + \dfrac{0{,}3 : 0{,}01}{70} + \dfrac{2}{7}$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 1 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="11">Խնդիր 11</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{\left( \dfrac{3}{5} + 0{,}425 - 0{,}005 \right) : 0{,}1}{30{,}5 + \dfrac{1}{6} + 3\dfrac{1}{3}} + \dfrac{6\dfrac{3}{4} + 5\dfrac{1}{2}}{26 : 3\dfrac{5}{7}} - 0{,}05$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 2 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="12">Խնդիր 12</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{3\dfrac{1}{3} \cdot 1{,}9 + 19{,}5 : 4\dfrac{1}{2}}{\dfrac{62}{75} - 0{,}16} : \dfrac{3{,}5 + 4\dfrac{2}{3} + 2\dfrac{2}{15}}{0{,}5 \cdot \left( 1\dfrac{1}{20} + 4{,}1 \right)}$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 4 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="13">Խնդիր 13</h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{\left( 1\dfrac{1}{5} : \left( \dfrac{17}{40} + 0{,}6 - 0{,}005 \right) \right) \cdot 1{,}7}{\dfrac{5}{6} + 1\dfrac{1}{3} - 1\dfrac{23}{30}} + \dfrac{4{,}75 + 7\dfrac{1}{2}}{33 : 4\dfrac{5}{7}} : 0{,}25$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 12 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
+            
+            <section>
+                <div class="clearfix">
+                    <h3 class="imagenum" id="14">Խնդիր 14<strong style="color:red;">**</strong></h3>
+                    <div class="math-quiz">
+                        <div>
+							$$\dfrac{\left( 4{,}5 \cdot 1\dfrac{2}{3} - 6{,}75 \right) \cdot 0{,}66\dots}{\left( 3{,}(3) \cdot 0{,}3 + 0{,}(2) + \dfrac{4}{9} \right) : 2\dfrac{2}{3}} + \dfrac{1\dfrac{4}{11} \cdot 0{,}22 : 0{,}3 - 0{,}96}{\left( 0{,}2 - \dfrac{3}{40} \right) \cdot 1{,}6}$$
+						</div>
+						<div>
+							<details>
+								<summary>Ցույց տալ պատասխանը</summary>
+								<div class="answer-box">
+									$$ = 1 $$
+								</div>
+							</details>
+						</div>
+                    </div>
+                </div>
+            </section>
             
 
         </div>
