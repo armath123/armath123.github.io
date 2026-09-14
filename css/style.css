@@ -79,6 +79,10 @@ header nav ul {
 	align-items: center;
 }
 
+header nav ul li {
+	display: inline-flex;
+}
+
 header nav ul li:not(:last-child) {
 	margin-right: .5em;
 }
