@@ -63,6 +63,10 @@ h1 {
     font-size: calc(2em * var(--font-size-multiplier));
 }
 
+button {
+	cursor: pointer;
+}
+
 header {
 	text-transform: uppercase;
 	font-family: "Mirage";
