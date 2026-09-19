@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+    <title>Տեսողական պատրանք</title>
+    <style>
+		.movable {
+			z-index: 3;
+		}
+		
+		.init-hide {
+			display: none;
+		} 
+    </style>
+</head>
+
+<body class="materials-page single">
+    include(`partials/header.htm')
+    <main>
+        <div class="page-header">
+            <h1>Տեսողական պատրանք կամ օպտիկական իլյուզիա</h1>
+            <img src="/img/projects/optical-illusion/optical-illusion.webp">
+            <div>
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝
+                    https://hy.wikipedia.org/wiki/%D5%8F%D5%A5%D5%BD%D5%B8%D5%B2%D5%A1%D5%AF%D5%A1%D5%B6_%D5%BA%D5%A1%D5%BF%D6%80%D5%A1%D5%B6%D6%84#/media/%D5%8A%D5%A1%D5%BF%D5%AF%D5%A5%D6%80:Duck-Rabbit_illusion.jpg</small>
+            </div>
+        </div>
+        <div class="page-content"> 
+
+            <section> 
+                <div class="flex align-items-center">
+                    <img src="data:image/webp;base64,UklGRjwEAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBUBAAABkCvbtmlbY519bdu+76V2ZGW2M2e2Qtu2M9u2bdv7rP6w9/2GiJgAeUeXN+vcpNCRZMICHsWjj79xCT5d3yxMMqGSInrewffL7HT9Hzf3G1W0W+MlOWNdwD47f/kNwO9hAanuO+DNyNKYuOpjXgKvayuwEPjYzUiSaXIfWGCy7gHTHHn3/A13Mhr9go815JtyFX40agdcS/QzO11re7dy4Xy0X8geYGjFW3iU75d1F+geewqCg41P/yB8qqGJwJNWxqP2PeBAlKo9Bl4NKwp3Ettft/Czm2QG/ATs08O7Lv7EwoZoSdGrLVV09xRIYVLqnK9+76emSHLCjMLa7nxj4ee9ZY0d/e+EGSm0evuBPRplG3kCAFZQOCAAAwAA0BUAnQEqFAAUAAAAACWwAnTKEdQeMfgB+pv9m5wzQLs9+quUs8MfzP8YP6r7q/4BzgH83/KPgAfoB/QP7N7AH9g/gHYAfp31gHoAfqJ6Gf9g/qvwI/qr/qv7X7kX8uuUH0AdgN2D9RMk79D/Ev8gNQB/Q/x4/I7MG/zP8oNR3/IDXO/1D8o/VV/EDzK/4B7gH8K/i39t/JH+nf+76QOoo/UY9ykcEvwXOiXuEs1DD6+JaQV/95WgAP7//oHyStVC2Rh1TzOzEf9EgRJ21YfMgEMR5EbjQJ1cDyzAQP/d7V0iw/a+QHQvY1/ET/TiXZO/6/4ZFBfXux3RXQRu80EIdzLMTnhe6Yv4l7B/2/46Irf2/OxHKOdemeCSsSiIglcvXrNhSsj7//8i14KDHXXydVBt2QhsEX7+5lQX87crYFcLBT+tXDbDPwKnXJeCJrJaloFg/B4MYJ8N/bk52uLSmWN//497HDjzwKns8fufVrjz4hesfkn6Bfsqw8B2MOGbtY5zKh//YVQAs9Fr4t10I60qUBvDp/yYh+TqMaeFdT4WixoGwwptsOn8w5j71YiTsal//zkjREqJcpgIjxkGnTfy7DfUimddIaAIxOT3aWSf/P5DZ4zmTmawnJ/69sDETcYsRfV8uqk97sL1/Kpp8QMQm4TqrGM7vx+/91QTLOHTEfDF2o7akYJRG0ivJiaI0uabCzpd+7Y8KCzOP8aU1f3KkZzl6QivEseJJup5LOlondtq4YKplgSsDB0miJEeup1Fv6ux6zaDepyzqono9XFSxgrcA/yVDS+r3slQdo7UwdrcAYsl4NKbCNx2rb90tduGDQ7pUddP4/hR0sO5nxTfsLVnQMhnr5nPm05FNHTny/CaAgXIgZGv5370h1ueUAcyhYNYnvTFuVFp8x47PApsLiEONDGNjJOnFclEm9zAWl/CA+xRue4QUZLnBLjAtzb0bocONwCsuMFcrg5x403aGXxKH7zDrMj/dU9X0gpAoNYTQ/vSlGTH90xnQAAA"
+                        alt="" width="20" height="20" />
+                    &nbsp;որոշ տեսապատկերներ ունեն օգնական գործիքներ (փրկօղակներ), մկնիկով սեղմելով տեսապատկերին և գրելով անգլերեն "sos" բառը, կտեսնես փրկօղակը
+                </div>
+            </section>
+            
+            <section>
+                <h2>Ադելսոնի "Շախմատային տախտակի" տեսողական պատրանքը</h2>
+                <div class="clearfix has-sos" style="position:relative;">
+                    <h3 class="fl-lt imagenum" id="1">1</h3>
+                    <img class="fl-lt" src="/img/projects/optical-illusion/checker-shadow-illusion.webp" width="615" height="502">
+                    <div class="movable init-hide" style="position: absolute;left: 650px;top: 0;">
+						<img src="/img/projects/optical-illusion/checker-shadow-illusion-cover.webp" width="133" height="171">
+                    </div>
+                </div> 
+                <small class="font-very-small">Օրիգ․ պատկերի աղբյուրը՝ https://michaelbach.de/ot/lum-adelsonCheckShadow/index.html</small>
+            </section>
+            
+            <section>
+                <h2>Պուլֆրիխի էֆեկտ</h2>
+                <div class="clearfix" style="position:relative;">
+                    <h3 class="fl-lt imagenum" id="2">2</h3>
+                    <video loop muted playsinline width="640" height="289" onclick="this.paused ? this.play() : this.pause();">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/optical-illusions/vid/projects/optical-illusion/pulfrich-effect.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/optical-illusions/vid/projects/optical-illusion/pulfrich-effect.mp4?download=true" type="video/mp4">
+						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
+					</video>
+                </div> 
+                <small class="font-very-small">Օրիգ․ տեսանյութի աղբյուրը՝ https://michaelbach.de/ot/lum-Pulfrich/</small>
+            </section>
+            
+            <section>
+                <h2>Թուսիի զույգ</h2>
+                <div class="clearfix has-sos" style="position:relative;">
+                    <h3 class="fl-lt imagenum" id="3">3</h3>
+                    <video loop muted playsinline width="480" height="478" onclick="this.paused ? this.play() : this.pause();">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/optical-illusions/vid/projects/optical-illusion/tusi-motion.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/optical-illusions/vid/projects/optical-illusion/tusi-motion.mp4?download=true" type="video/mp4">
+						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
+					</video>
+					<div class="movable init-hide" style="position: absolute;left: 520px;top: 0;">
+						<img src="/img/projects/optical-illusion/tusi-wheel-stroke.webp" width="480" height="478">
+                    </div>
+                </div> 
+                <small class="font-very-small">Օրիգ․ տեսանյութի աղբյուրը՝ https://michaelbach.de/ot/mot-Tusi/index.html</small>
+            </section>
+            
+            <section> 
+                <h2>Շարժմամբ պայմանավորված կուրություն</h2>
+                <div class="clearfix" style="position:relative;">
+                    <h3 class="fl-lt imagenum" id="4">4</h3>
+                    <video loop muted playsinline width="480" height="480" onclick="this.paused ? this.play() : this.pause();">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/optical-illusions/vid/projects/optical-illusion/mib.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/optical-illusions/vid/projects/optical-illusion/mib.mp4?download=true" type="video/mp4">
+						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
+					</video>
+                </div> 
+                <small class="font-very-small">Օրիգ․ տեսանյութի աղբյուրը՝ https://michaelbach.de/ot/mot-mib/index.html</small>
+            </section>
+            
+            <section>
+                <h2>Բուրգի պատրանք Կրիայով</h2>
+                <div class="clearfix has-sos" style="position:relative;">
+                    <h3 class="fl-lt imagenum" id="5">5</h3>
+                    <img class="fl-lt" src="/img/projects/optical-illusion/pyramid-illusion-kturtle.webp" width="480" height="480">
+                    <div class="movable init-hide" style="position: absolute;left: 520px;top: 0;">
+						<img src="/img/projects/optical-illusion/pyramid-illusion.webp" width="320" height="320">
+                    </div>
+                </div>
+            </section>
+
+			
+		</div>
+		<script>
+			// Make all elements with the class "movable" draggable from anywhere inside:
+			document.querySelectorAll(".movable").forEach(elmnt => {
+				dragElement(elmnt);
+			});
+
+			function dragElement(elmnt) {
+			  var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+			  
+			  // Move the element from anywhere inside the container:
+			  elmnt.onmousedown = dragMouseDown;
+
+			  function dragMouseDown(e) {
+				e = e || window.event;
+				e.preventDefault();
+				// get the mouse cursor position at startup:
+				pos3 = e.clientX;
+				pos4 = e.clientY;
+				document.onmouseup = closeDragElement;
+				// call a function whenever the cursor moves:
+				document.onmousemove = elementDrag;
+			  }
+
+			  function elementDrag(e) {
+				e = e || window.event;
+				e.preventDefault();
+				// calculate the new cursor position:
+				pos1 = pos3 - e.clientX;
+				pos2 = pos4 - e.clientY;
+				pos3 = e.clientX;
+				pos4 = e.clientY;
+				// set the element's new position:
+				elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+				elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+			  }
+
+			  function closeDragElement() {
+				/* stop moving when mouse button is released:*/
+				document.onmouseup = null;
+				document.onmousemove = null;
+			  }
+			}  
+		</script>
+		<script>
+			(function() {
+				let typedBuffer = "";
+				const targetWord = "sos";
+				let activeSosContainer = null;
+
+				// Track when the user clicks on or inside a .has-sos container
+				document.addEventListener("click", function(e) {
+					const container = e.target.closest(".has-sos");
+					if (container) {
+						activeSosContainer = container;
+					}
+				});
+
+				document.addEventListener("keydown", function(e) {
+					// If the user hasn't clicked inside a .has-sos container yet, ignore
+					if (!activeSosContainer) return;
+
+					// Append the typed character (ignoring modifier keys like Shift, Ctrl, etc.)
+					if (e.key.length === 1) {
+						typedBuffer += e.key.toLowerCase();
+						
+						// Keep only the last few characters to match the length of the target word
+						if (typedBuffer.length > targetWord.length) {
+							typedBuffer = typedBuffer.slice(-targetWord.length);
+						}
+
+						// Check if the typed sequence matches the target word
+						if (typedBuffer === targetWord) {
+							// Show only the movable container(s) inside this specific active container
+							activeSosContainer.querySelectorAll(".movable.init-hide").forEach(elmnt => {
+								elmnt.classList.remove("init-hide");
+							});
+							
+							// Reset buffer after successful trigger
+							typedBuffer = ""; 
+						}
+					}
+				});
+			})();
+		</script>
+    </main>
+</body>
+
+</html>

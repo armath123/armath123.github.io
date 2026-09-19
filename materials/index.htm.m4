@@ -9,6 +9,11 @@
 	<main>
 		<ul class="menu menu-with-icons">
 			<li>
+				<a href="/materials/optical-illusion">
+					<img src="/img/main/optical-illusion-64.png" width="48" height="48"> Տեսողական պատրանք կամ օպտիկական իլյուզիա
+				</a>
+			</li>
+            <li>
 				<a href="/materials/os">
 					<img src="/img/main/os-64.png" width="48" height="48"> Օպերացիոն համակարգեր
 				</a>
