@@ -9,7 +9,7 @@
 		<nav>
 			<ul class="menu menu-with-icons">
 				<li>
-					<a href="/materials.htm">
+					<a href="/materials">
 						<img src="/img/main/materials.png" width="24" height="24"> Նյութեր
 					</a>
 				</li>

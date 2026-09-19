@@ -3,62 +3,15 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="/css/style.css" type="text/css">
+    <meta http-equiv="refresh" content="0; url=/materials">
 </head>
 <body>
 	include(`partials/header.htm')
 	<main>
-		<ul class="menu menu-with-icons">
-			<li>
-				<a href="./os.htm">
-					<img src="/img/main/os-64.png" width="48" height="48"> Օպերացիոն համակարգեր
-				</a>
-			</li>
-			<li>
-				<a href="./dispersion.htm">
-					<img src="/img/main/dispersion-64.png" width="48" height="48"> Լույսի տարալուծումը կամ դիսպերսիա
-				</a>
-			</li>
-			<li>
-				<a href="./pressure.htm">
-					<img src="/img/main/pressure-64.png" width="48" height="48"> Հեղուկների և գազերի ճնշումը
-				</a>
-			</li>
-			<li>
-				<a href="./ratio-2.htm">
-					<img src="/img/main/ratio-2-64.png" width="48" height="48"> Հարաբերություններ, համեմատություններ 2
-				</a></li>
-			<li>
-				<a href="./ratio.htm">
-					<img src="/img/main/ratio-64.png" width="48" height="48"> Հարաբերություններ, համեմատություններ
-				</a>
-			</li>
-			<li>
-				<a href="./mobius.htm">
-					<img src="/img/main/mobius-64.png" width="48" height="48"> Մյոբիուսի ժապավեն
-				</a>
-			</li>
-			<li>
-				<a href="./refraction.htm">
-					<img src="/img/main/refraction-64.png" width="48" height="48"> Լույսի բեկումը կամ ռեֆրակցիա
-				</a>
-			</li>
-			<li>
-				<a href="./capillary.htm">
-					<img src="/img/main/capillary-64.png" width="48" height="48"> Մազական կամ կապիլյար երևույթներ
-				</a>
-			</li>
-			<li>
-				<a href="./termo.htm">
-					<img src="/img/main/termo-64.png" width="48" height="48"> Ցելսիուս֊Ֆարենհայտ փոխարկիչ C կամ Python լեզվով
-				</a>
-			</li>
-			<li>
-				<a href="./periscope.htm">
-					<img src="/img/main/periscope-64.png" width="48" height="48"> Պերիսկոպի (շրջադիտակ) գործողության սկզբունքը
-				</a>
-			</li>
-			<li><a href="./kturtle-base.htm">Կրիայի նախնական կարգավորումներ</a></li>
-		</ul>
+		<p>
+			⚠️ Էջի հղումը փոխվել է:<br>
+			<a href="/materials"><button>Սեղմի՛ր այստեղ</button></a> նոր հղմամբ անցնելու համար։
+		</p>
 	</main>
 </body>
 </html>
