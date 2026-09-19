@@ -27,7 +27,7 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=11
+current_page=14
 FILE_NAME_0=11812;Sh;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmath%2Fskanavi.htm.m4;0;4
 FILE_NAME_1=462;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmath%2Findex.htm.m4;0;4
 FILE_NAME_2=2683;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials%2Findex.htm;0;4
@@ -38,6 +38,10 @@ FILE_NAME_6=0;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Findex.htm;0;4
 FILE_NAME_7=7895;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fvictorina.htm;0;4
 FILE_NAME_8=0;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials.htm;0;4
 FILE_NAME_9=9629;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials%2Fos%2Findex.htm.m4;0;4
+FILE_NAME_10=0;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials.htm.m4;0;4
+FILE_NAME_11=808;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Findex.htm.m4;0;4
+FILE_NAME_12=0;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fexercises%2Findex.htm;0;4
+FILE_NAME_13=5751;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fkturtle%2Fexercises%2Findex.htm.m4;0;4
 
 [VTE]
 last_dir=/var/www/html
