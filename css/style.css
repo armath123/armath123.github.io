@@ -176,7 +176,7 @@ ul li a {
 
 .materials-page.single {
     img {
-    	max-height: 640px;
+    	max-height: 512px;
 	    max-width: 1024px;
     }
 
