@@ -131,7 +131,7 @@
             
             <section>
                 <h2>Թուսիի զույգով մեխանիզմի պատկերավորում (վիզուալիզացիա)</h2>
-                <p>Ներքին ատամնանիվի ատամների քանակը 32 է։ Ինչքան կլինի արտաքին ատամնանիվինը?</p>
+                <p>Փոքր ատամնանիվի ատամների քանակը 32 է։ Ինչքան կլինի մեծ ատամնանիվինը?</p>
                 <div class="clearfix has-sos relative">
                     <h3 class="fl-lt imagenum" id="8">8</h3>
                     <video loop muted playsinline width="480" height="690" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-couple-mechanism-illustration-poster.webp">
