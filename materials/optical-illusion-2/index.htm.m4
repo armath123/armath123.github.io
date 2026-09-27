@@ -47,8 +47,8 @@
                 <div class="clearfix has-sos" style="position:relative;">
                     <h3 class="fl-lt imagenum" id="1">1</h3>
                     <video loop muted playsinline width="480" height="478" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-motion-lines-included-poster.webp">
-						<source src="/vid/projects/optical-illusion-2/tusi-motion-lines-included.webm?download=true" type="video/webm">
-						<source src="/vid/projects/optical-illusion-2/tusi-motion-lines-included.mp4?download=true" type="video/mp4">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-motion-lines-included.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-motion-lines-included.mp4?download=true" type="video/mp4">
 						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 					</video>
 					<div class="movable init-hide" style="position: absolute;left: 520px;top: 0;">
@@ -63,8 +63,8 @@
                 <div class="clearfix relative">
                     <h3 class="fl-lt imagenum" id="2">2</h3>
                     <video loop muted playsinline width="480" height="690" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-couple-circles-illustration--90-poster.webp">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-circles-illustration--90.webm?download=true" type="video/webm">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-circles-illustration--90.mp4?download=true" type="video/mp4">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-circles-illustration--90.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-circles-illustration--90.mp4?download=true" type="video/mp4">
 						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 					</video>
                 </div> 
@@ -78,8 +78,8 @@
                     <img class="fl-lt" src="/img/projects/optical-illusion-2/tusi-couple-manuscript.webp">
 					<div class="movable init-hide" style="position: absolute;left: 650px;top: 0;">
 						<video loop muted playsinline width="690" height="480" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-couple-circles-illustration-poster.webp">
-							<source src="/vid/projects/optical-illusion-2/tusi-couple-circles-illustration.webm?download=true" type="video/webm">
-							<source src="/vid/projects/optical-illusion-2/tusi-couple-circles-illustration.mp4?download=true" type="video/mp4">
+							<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-circles-illustration.webm?download=true" type="video/webm">
+							<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-circles-illustration.mp4?download=true" type="video/mp4">
 							Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 						</video>
 					</div>
@@ -111,8 +111,8 @@
                 <div class="clearfix">
                     <h3 class="fl-lt imagenum" id="6">6</h3>
                     <video class="fl-lt" style="max-height: 768px; height: 100%;" controls>
-						<source src="/vid/projects/optical-illusion-2/tous-city-iran.webm?download=true" type="video/webm">
-						<source src="/vid/projects/optical-illusion-2/tous-city-iran1.mp4?download=true" type="video/mp4">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tous-city-iran.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tous-city-iran1.mp4?download=true" type="video/mp4">
 						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
                     </video>
                 </div>
@@ -135,8 +135,8 @@
                 <div class="clearfix has-sos relative">
                     <h3 class="fl-lt imagenum" id="8">8</h3>
                     <video loop muted playsinline width="480" height="690" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-couple-mechanism-illustration-poster.webp">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-illustration.webm?download=true" type="video/webm">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-illustration.mp4?download=true" type="video/mp4">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-illustration.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-illustration.mp4?download=true" type="video/mp4">
 						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 					</video>
 					<div class="movable init-hide" style="position: absolute;left: 520px;top: 0;">
@@ -151,8 +151,8 @@
                 <div class="clearfix relative">
                     <h3 class="fl-lt imagenum" id="9">9</h3>
                     <video loop muted playsinline width="640" height="480" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-couple-mechanism-real-world-poster.webp">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world.webm?download=true" type="video/webm">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world.mp4?download=true" type="video/mp4">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world.mp4?download=true" type="video/mp4">
 						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 					</video>
                 </div> 
@@ -163,8 +163,8 @@
                 <div class="clearfix relative">
                     <h3 class="fl-lt imagenum" id="10">10</h3>
 					<video loop muted playsinline width="640" height="480" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-couple-mechanism-real-world-2-poster.webp">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-2.webm?download=true" type="video/webm">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-2.mp4?download=true" type="video/mp4">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-2.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-2.mp4?download=true" type="video/mp4">
 						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 					</video>
                 </div> 
@@ -175,8 +175,8 @@
                 <div class="clearfix relative">
                     <h3 class="fl-lt imagenum" id="11">11</h3>
 					<video loop muted playsinline width="480" height="640" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/tusi-couple-mechanism-real-world-3-poster.webp">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-3.webm?download=true" type="video/webm">
-						<source src="/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-3.mp4?download=true" type="video/mp4">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-3.webm?download=true" type="video/webm">
+						<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/tusi-couple-mechanism-real-world-3.mp4?download=true" type="video/mp4">
 						Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 					</video>
                 </div> 
@@ -191,8 +191,8 @@
 					<img class="fl-lt" src="/img/projects/optical-illusion-2/nasireddin-crater.webp">
 					<div class="movable init-hide clearfix" style="position: absolute;left: 550px;top: 0;">
 						<video class="fl-lt" style="margin-bottom: 1rem;margin-right: 1rem;" loop muted playsinline onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion-2/optical-illusion-mask-poster.webp">
-							<source src="/vid/projects/optical-illusion-2/optical-illusion-mask.webm?download=true" type="video/webm">
-							<source src="/vid/projects/optical-illusion-2/optical-illusion-mask.mp4?download=true" type="video/mp4">
+							<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/optical-illusion-mask.webm?download=true" type="video/webm">
+							<source src="https://github.com/armath123/armath123.github.io/raw/refs/heads/main/vid/projects/optical-illusion-2/optical-illusion-mask.mp4?download=true" type="video/mp4">
 							Ձեր բրոուզերը չի կարող նվագարկել այս տեսանյութը։
 						</video>
 						<img class="fl-lt" src="/img/projects/optical-illusion-2/nasireddin-crater-2.webp">
