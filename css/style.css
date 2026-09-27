@@ -192,6 +192,14 @@ ul li a {
     }
 }
 
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+}
+
 .fl-lt {
 	float: left;
 }

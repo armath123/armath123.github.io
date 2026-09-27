@@ -68,7 +68,7 @@
             </section>
             
             <section>
-                <h2>Թուսիի զույգ</h2>
+                <h2>Թուսիի շարժում</h2>
                 <div class="clearfix has-sos" style="position:relative;">
                     <h3 class="fl-lt imagenum" id="3">3</h3>
                     <video loop muted playsinline width="480" height="478" onclick="this.paused ? this.play() : this.pause();" poster="/img/projects/optical-illusion/tusi-motion-poster.webp">
