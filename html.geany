@@ -27,10 +27,11 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
+current_page=3
 FILE_NAME_0=421;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials%2Findex.htm.m4;0;4
-FILE_NAME_1=47967;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials%2Foptical-illusion-2%2Findex.htm.m4;0;4
+FILE_NAME_1=50367;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials%2Foptical-illusion-2%2Findex.htm.m4;0;4
 FILE_NAME_2=4471;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmaterials%2Fpressure%2Findex.htm.m4;0;4
+FILE_NAME_3=15680;HTML;0;EUTF-8;1;1;0;%2Fvar%2Fwww%2Fhtml%2Fmath%2Fskanavi.htm.m4;0;4
 
 [VTE]
-last_dir=/var/www/html
+last_dir=/home/dude
