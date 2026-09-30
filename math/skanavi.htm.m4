@@ -340,8 +340,6 @@
                 </div>
             </section>
             
-            <hr>
-            <br>
             <section>
 				<div class="clearfix">
 					<h3 class="imagenum" id="1.015">Խնդիր 1.015</h3>
