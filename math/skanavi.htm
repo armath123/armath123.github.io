@@ -57,7 +57,7 @@
 			font-size: 1.5rem;
 	}
     </style>
-    <script id="MathJax-script" async src="/js/tex-mml-chtml.js"></script>
+    <script id="MathJax-script" async src="/js/tex-mml-svg.js"></script>
 </head>
 
 <body class="materials-page single">
